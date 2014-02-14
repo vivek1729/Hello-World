@@ -1,4 +1,4 @@
 testing cloning local repository!
 Git credential Helper should work.
 This is just a test repository
-http proxy has been set up properly
+http/https proxy has been set up properly
